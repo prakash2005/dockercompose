@@ -1,1 +1,1 @@
-# demo-repo-github-actions
+# demo-repository-github-actions
