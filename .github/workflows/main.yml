@@ -24,7 +24,7 @@ jobs:
         uses: docker/setup-buildx-action@v1 
 
       - name: Build and push
-        id: Docker build 
+        id: docker build 
         uses: docker/build-push-action@v1
         with:
           context: ./
